@@ -1,0 +1,14 @@
+M:\C# Lab\LoginSystem\LoginSystem\bin\Debug\net10.0\LoginSystem.exe
+M:\C# Lab\LoginSystem\LoginSystem\bin\Debug\net10.0\LoginSystem.deps.json
+M:\C# Lab\LoginSystem\LoginSystem\bin\Debug\net10.0\LoginSystem.runtimeconfig.json
+M:\C# Lab\LoginSystem\LoginSystem\bin\Debug\net10.0\LoginSystem.dll
+M:\C# Lab\LoginSystem\LoginSystem\bin\Debug\net10.0\LoginSystem.pdb
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.AssemblyInfoInputs.cache
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.AssemblyInfo.cs
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.csproj.CoreCompileInputs.cache
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.dll
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\refint\LoginSystem.dll
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.pdb
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\LoginSystem.genruntimeconfig.cache
+M:\C# Lab\LoginSystem\LoginSystem\obj\Debug\net10.0\ref\LoginSystem.dll
